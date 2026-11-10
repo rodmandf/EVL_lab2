@@ -1,0 +1,38 @@
+{
+  "Penalty + inversion": {
+    "best": 401.2306627328684,
+    "mean": 407.6874409454546,
+    "median": 403.78450207357,
+    "std": 6.182092156176977,
+    "worst": 416.89869243018614,
+    "mean_generations": 168,
+    "mean_feasible_fraction": 0.68449
+  },
+  "Repair + inversion": {
+    "best": 405.05131327468024,
+    "mean": 430.045168634172,
+    "median": 430.74931617429013,
+    "std": 16.488595567986234,
+    "worst": 455.6571311101817,
+    "mean_generations": 17.9,
+    "mean_feasible_fraction": 0.02128
+  },
+  "Penalty + swap": {
+    "best": 401.7345543711079,
+    "mean": 412.1279008752901,
+    "median": 409.65415182048355,
+    "std": 7.984516147960455,
+    "worst": 431.0538642799123,
+    "mean_generations": 168,
+    "mean_feasible_fraction": 0.761175
+  },
+  "Randomized nearest neighbor": {
+    "best": 411.03728355479427,
+    "mean": 417.2498668447376,
+    "median": 415.51347873911413,
+    "std": 5.497290257095085,
+    "worst": 427.25162378887825,
+    "mean_generations": 0,
+    "mean_feasible_fraction": 0.02205
+  }
+}

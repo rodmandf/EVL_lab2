@@ -1,0 +1,18 @@
+{
+  "student_number": 23,
+  "group": 527,
+  "year": 26,
+  "data_seed": 52723,
+  "customers": 20,
+  "service_minutes": 2.0,
+  "time_limit_minutes": 535.0,
+  "population_size": 60,
+  "evaluation_budget": 10000,
+  "tournament_size": 3,
+  "crossover_probability": 0.9,
+  "mutation_probability": 0.2,
+  "penalty_weight": 25.0,
+  "repair_attempts": 10,
+  "runs": 20,
+  "first_seed": 2026
+}
